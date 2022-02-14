@@ -2,12 +2,12 @@
   // core components
   const github = "../assets/img/github.svg";
   const google = "../assets/img/google.svg";
-  export let location;
+  // export let location;
 </script>
 
-<div class="container mx-auto px-4 h-full">
-  <div class="flex content-center items-center justify-center h-full">
-    <div class="w-full lg:w-6/12 px-4">
+<div class="bg-blueGray-800 container mx-auto px-4 h-full">
+  <div class="bg-blueGray-800 flex content-center items-center justify-center h-full">
+    <div class="bg-blueGray-800 w-full lg:w-6/12 px-4">
       <div
         class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-200 border-0"
       >
@@ -19,14 +19,14 @@
           </div>
           <div class="btn-wrapper text-center">
             <button
-              class="bg-white active:bg-blueGray-50 text-blueGray-700 font-normal px-4 py-2 rounded outline-none focus:outline-none mr-2 mb-1 uppercase shadow hover:shadow-md inline-flex items-center font-bold text-xs ease-linear transition-all duration-150"
+              class="bg-white active:bg-blueGray-50 text-blueGray-700 px-4 py-2 rounded outline-none focus:outline-none mr-2 mb-1 uppercase shadow hover:shadow-md inline-flex items-center font-bold text-xs ease-linear transition-all duration-150"
               type="button"
             >
               <img alt="..." class="w-5 mr-1" src="{github}" />
               Github
             </button>
             <button
-              class="bg-white active:bg-blueGray-50 text-blueGray-700 font-normal px-4 py-2 rounded outline-none focus:outline-none mr-1 mb-1 uppercase shadow hover:shadow-md inline-flex items-center font-bold text-xs ease-linear transition-all duration-150"
+              class="bg-white active:bg-blueGray-50 text-blueGray-700 px-4 py-2 rounded outline-none focus:outline-none mr-1 mb-1 uppercase shadow hover:shadow-md inline-flex items-center font-bold text-xs ease-linear transition-all duration-150"
               type="button"
             >
               <img alt="..." class="w-5 mr-1" src="{google}" />
