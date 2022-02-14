@@ -4,7 +4,7 @@
   import Footer from "components/Footers/Footer.svelte";
 
   const team2 = "/assets/img/team-2-800x800.jpg";
-  export let location;
+  // export let location;
 </script>
 
 <div>
@@ -101,7 +101,7 @@
             </div>
             <div class="text-center mt-12">
               <h3
-                class="text-4xl font-semibold leading-normal mb-2 text-blueGray-700 mb-2"
+                class="text-4xl font-semibold leading-normal text-blueGray-700 mb-2"
               >
                 Jenna Stones
               </h3>

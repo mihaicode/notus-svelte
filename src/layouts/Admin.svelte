@@ -13,8 +13,8 @@
   import Tables from "views/admin/Tables.svelte";
   import Maps from "views/admin/Maps.svelte";
 
-  export let location;
-  export let admin = "";
+  //export let location;
+  //export let admin = "";
 </script>
 
 <div>

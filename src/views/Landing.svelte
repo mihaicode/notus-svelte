@@ -9,7 +9,7 @@
   const team2 = "/assets/img/team-2-800x800.jpg";
   const team3 = "/assets/img/team-3-800x800.jpg";
   const team4 = "/assets/img/team-4-470x470.png";
-  export let location;
+  // export let location;
 </script>
 
 <div>
@@ -37,9 +37,7 @@
                 Your story starts with us.
               </h1>
               <p class="mt-4 text-lg text-blueGray-200">
-                This is a simple example of a Landing Page you can build using
-                Notus Svelte. It features multiple CSS components
-                based on the Tailwind CSS design system.
+                This is a simple example of a Landing Page.
               </p>
             </div>
           </div>
@@ -151,13 +149,13 @@
               Just make sure you enable them first via JavaScript.
             </p>
             <a use:link href="/" class="font-bold text-blueGray-700 mt-8">
-              Check Notus Svelte!
+              Pocket
             </a>
           </div>
 
           <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
             <div
-              class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-red-400"
+              class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-red-400"
             >
               <img
                 alt="..."
