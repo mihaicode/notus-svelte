@@ -41,7 +41,7 @@
         responsive: true,
         title: {
           display: false,
-          text: "Orders Chart",
+          text: "Sales Chart",
         },
         tooltips: {
           mode: "index",
@@ -112,7 +112,7 @@
           Performance
         </h6>
         <h2 class="text-blueGray-700 text-xl font-semibold">
-          Total orders
+          Total Sales
         </h2>
       </div>
     </div>
