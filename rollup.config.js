@@ -26,7 +26,7 @@ const aliases = alias({
 const indexTemplate = `<!--
 
 =========================================================
-* Notus Svelte - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Svelte Pocket - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/notus-svelte
@@ -56,7 +56,7 @@ const indexTemplate = `<!--
       href="/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
     />
     <link rel="stylesheet" href="/assets/styles/tailwind.css" />
-    <title>Notus Svelte</title>
+    <title>Svelte Pocket</title>
 
     <script>
       if (process === undefined) {
